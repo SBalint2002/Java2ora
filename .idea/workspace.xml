@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1567b1a2-3205-4d82-9dbe-c270a091eb68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java2ora.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/java02ora/Feladat9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +36,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EXREYdM1YbBWU69Y8payDmegWN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
