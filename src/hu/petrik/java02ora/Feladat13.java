@@ -11,14 +11,11 @@ public class Feladat13 {
         int gondoltszam = (int)(Math.random() * 100) + 1;
         out.print("Adjon meg egy pozitív egész számot 1 és 100 között: ");
         int tipp = sc.nextInt();
-        int kulombseg;
         do {
             if (gondoltszam > tipp){
-                kulombseg = gondoltszam-tipp;
-                out.printf("A gondolt szám %s-al nagyobb!\n",kulombseg);
+                out.printf("A gondolt szám nagyobb!\n");
             } else if (gondoltszam < tipp) {
-                kulombseg = tipp - gondoltszam;
-                out.printf("A gondolt szám %s-el kisebb!\n",kulombseg);
+                out.printf("A gondolt szám kisebb!\n");
             }
             out.print("Adjon meg egy pozitív egész számot 1 és 100 között: ");
             tipp = sc.nextInt();
