@@ -2,6 +2,8 @@ package hu.petrik.java02ora;
 
 import java.util.Random;
 import java.util.Scanner;
+import java.util.concurrent.ThreadLocalRandom;
+
 import static java.lang.System.*;
 
 public class Feladat15 {
@@ -11,7 +13,7 @@ public class Feladat15 {
         int high = 100;
         double[] tomb = new double[25];
         for (int i = 0; i < 25; i++){
-            tomb[i] = r.nextDouble(high-low)+low;
+            tomb[i] = ThreadLocalRandom.current().nextDouble(low, high + 1);
         }
         for (int i = 0; i<25; i++){
             if (i%2==0){
